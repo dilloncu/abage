@@ -13,7 +13,7 @@ let user;
 
       userName();
 
-let a = confirm("Could you please awswer some questions?");
+let a = confirm("Could you please answer some questions?");
 
 if(a){
  alert ("Great!");
